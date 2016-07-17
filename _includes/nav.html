@@ -16,7 +16,7 @@
                     {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
         {% endfor %}
-                   &nbsp;<span> Subscribe with <a href="{{ site.url }}/feed.xml">RSS</a></span>
+                   &nbsp;<span> Subscribe with <a href="{{ site.baseurl }}/feed.xml">RSS</a></span>
             </div>
             <!-- /.navbar-collapse -->
         </div>
