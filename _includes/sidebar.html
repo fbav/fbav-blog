@@ -1,0 +1,12 @@
+<div class="sidebar">
+    <h3>A word from our sponsors</h3>
+    <div>Ad goes here</div>
+     <h3>Recent Writings</h3>
+      <ul class="disc">
+      {% for post in site.posts offset: 1 limit: 10 %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+
+    

@@ -1,0 +1,15 @@
+<!-- Intro Header -->
+<header class="intro">
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+               
+                {% include sidebar.html %}
+              
+                {% assign post = site.posts.first %} 
+                {% assign content = post.content %} 
+                {% include post_detail.html %}
+                
+            </div>
+        </div>
+</header>

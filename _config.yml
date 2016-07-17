@@ -1,0 +1,16 @@
+title: fbav.net
+email: fiona@fbav.net
+description: > 
+  For the discerning reader
+baseurl: "" # /blog
+url: "http://localhost:4000" 
+github_username:  fbav
+
+color:
+  primary-dark: '#000000'
+  links: '#999999'
+  links-hover: '#cc6688'
+
+
+markdown: kramdown
+permalink: pretty
