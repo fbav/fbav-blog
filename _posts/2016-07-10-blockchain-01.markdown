@@ -1,0 +1,33 @@
+---
+layout: post
+title: "The disruptive potential of Blockchain"
+date: July 10, 2016
+---
+
+For those who have heard of it, blockchain is that thing to do with Bitcoin. Opinions about Bitcoin are somewhat polarized. With shenanigans around the failure of MtGox, the Tokyo based Bitcoin exchange as well as the rise and fall of Silk Road, Cryptocurrencies have received something of a bad rap. But don’t let that put you off as we are not here to talk about Bitcoin per se, we are here to talk about blockchain and its disruptive potential.
+
+What I’d like to do over a number of posts is walk around blockchain, looking at what it is, where it came from, the technology, its uses and what it all might mean for the average person on the street. As said earlier, it has a highly disruptive potential and could well alter the way we shop, get paid, do business and do banking. I’m also interested in looking a little outside the financial box and exploring its application in other areas as well.
+
+Before launching in to blockchain, it is worth looking at Bitcoin and cryptocurrencies in general, as they are the progenitor. Bitcoin is a decentralized digital currency. That is, it is accorded a value by virtue of the fact that it can be traded for goods and services or exchanged for other fiat currencies. Fiat currencies are legal tender issued by and backed by governments. Unlike fiat currencies, however, cryptocurrencies are not generated and controlled by governments, making them decentralized (and tax free…). This means that no one has control. That may sound rather anarchic, and that is certainly one way of looking at it. But somehow it seems to work. How can that be so?
+
+Let’s get up and take a walk around and see whether we can find a different perspective. We often use the terms “money” and “currency” interchangeably, so the picture most people have in their heads of currency are dollars and cents or pounds and pence and so on. It is something you can hold in your hand. But that is only a manifestation. Ask an economist what money is and you might be surprised at the response. 
+
+>Unfortunately, we know what money is the same way the fabled Blind Men of Hindustan know what an elephant is: the one who grabbed the trunk knows it is “like a tree”, while the one who grabbed the tusk knows that it is “like a spear”, and so on. Money is such a multi-faceted and all-pervasive element of our system—the figurative “elephant in the living room”—that our capability to obsess about one aspect of it prevents us developing a proper appreciation of what it actually is. 
+[What Is Money And How Is It Created? Steve Keen, Forbes](http://www.forbes.com/sites/stevekeen/2015/02/28/what-is-money-and-how-is-it-created/#13a52c3e56a3)
+
+In the article Keen goes on to suggest the key question to ask if want to understand money was posed by Augusto Graziani, an Italian Professor of Economics who asked:
+
+how does a monetary economy differ from one in which trade occurs by barter?
+
+Graziani gave three basic conditions that had to be met for something to be called “money”:
+
+> - money has to be a token currency (otherwise it would give rise to barter and not to monetary exchanges);
+>  - money has to be accepted as a means of final settlement of the transaction (otherwise it would be credit and not money);
+> - money must not grant privileges of seignorage to any agent making a payment.
+
+He saw only one way to satisfy those three conditions:
+
+> The only way to satisfy those three conditions is to have payments made by means of promises of a third agent, the typical third agent being nowadays a bank.
+
+So is Bitcoin money? And what would happen if a technology came along and you no longer needed a bank? Starting to feel disrupted? Stay tuned… 
+
